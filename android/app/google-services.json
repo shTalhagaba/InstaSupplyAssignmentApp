@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "150741306582",
+    "project_id": "driverdelievryproject",
+    "storage_bucket": "driverdelievryproject.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:150741306582:android:d95a5ef3e33ec2c37b8d77",
+        "android_client_info": {
+          "package_name": "com.driverdeliveryapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD1tETTi_0mVaVZ4u5GuIIVcOcg6GNaF6g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
